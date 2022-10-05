@@ -21,10 +21,15 @@ body {
   font-size: 1.5rem;
   font-family: "Outfit", sans-serif;
   background-color: var(--light-gray);
-  position: absolute;
+  /* position: absolute;
   left: 50%;
   top: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%); */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;
 }
 a {
   text-decoration: none;

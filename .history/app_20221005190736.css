@@ -69,7 +69,7 @@ img {
   margin-top: 1.5rem;
   color: var(--grayish-blue);
 }
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 550px) {
   .qr {
     width: 50rem;
   }

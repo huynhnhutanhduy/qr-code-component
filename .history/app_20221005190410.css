@@ -44,8 +44,7 @@ img {
 
 .qr {
   background-color: var(--white);
-  max-width: 30rem;
-  /* width: 30rem; */
+  max-width: 40rem;
   /* height: 46rem; */
   border-radius: 1rem;
   padding: 1.5rem;
@@ -70,7 +69,4 @@ img {
   color: var(--grayish-blue);
 }
 @media screen and (max-width: 500px) {
-  .qr {
-    width: 50rem;
-  }
 }
